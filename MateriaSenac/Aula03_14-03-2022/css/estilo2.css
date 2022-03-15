@@ -1,0 +1,26 @@
+/*
+Definindo minhas classes
+*/
+
+.cor_verde {
+    color: green;
+}
+
+
+/*
+Definido meus IDs
+*/
+
+#cor_azul {
+    color: blue;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*
+Outras formatações
+*/
+
+p {
+    color: blueviolet;
+}
