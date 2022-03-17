@@ -1,0 +1,54 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.titulo {
+    font-size: x-large;
+
+    /*Formatação*/
+    font-family: 'Inspiration', cursive;
+    width: 30em;
+    font-weight: 100;
+    color: black;
+
+}
+
+/*Paddings*/
+.espacamento1 {
+    width: 50%;
+    height: 150px;
+    border: 1px solid red;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+
+    /*Margens*/
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    /*Formatação*/
+    font-family: 'Inspiration', cursive;
+    width: 100em;
+    font-weight: 100;
+    color: black;
+
+}
+
+.espacamento2 {
+    width: 50%;
+    height: 150px;
+    border: 1px solid green;
+    padding: 25px 30px 25px 30px;
+
+    /*Margens*/
+    margin: 0px auto;
+
+    /*Formatação*/
+    font-family: 'Inspiration', cursive;
+    width: 30em;
+    font-weight: 100;
+    color: black;
+}
