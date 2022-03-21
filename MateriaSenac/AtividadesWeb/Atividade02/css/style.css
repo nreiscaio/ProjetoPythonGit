@@ -1,0 +1,107 @@
+/*font-family: 'League Gothic', sans-serif;*/
+
+#corpo {
+    background-color: rgb(12, 51, 2);
+}
+.titulo {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 4em;
+    font-weight: 1200;
+    font-style: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 1000px;
+    padding: 1px;
+    margin: 0px auto;
+}
+#container {
+    width: 1500px; 
+    height: 750px;
+    margin: auto;
+}
+#menu {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 1.2em;
+    font-weight: 1200;
+    font-style: bold;
+    color: rgb(0, 0, 0);
+    width: 12%;
+    height: 280px;
+    line-height: 36px;
+    padding: 0px;
+    background: rgb(58, 121, 71);
+    border: 5px groove rgb(0, 0, 0);
+    float: left;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+a:hover {
+    background-position: right bottom;
+    color: #ffff;
+    background-color: rgb(66, 144, 180);
+}
+#texto_inicial {
+    font-family: 'Inter', sans-serif;
+    font-size: 1em;;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    width: 765px; padding: 5px; margin: 5px;
+    float: left;
+}
+#imagem_inicial {
+    padding: 0px; margin-left: 10px;
+    float: left;
+    border: 5px groove rgb(9, 1, 43);
+}
+h2 {
+    font-family: 'League Gothic', sans-serif;
+}
+.subtitulos {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 4em;
+    font-weight: 1200;
+    font-style: bold;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    width: -100px;
+    padding: 1px;
+    margin: 0px auto;
+}
+p {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.4em;;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+#lista {
+    font-size: large;    
+}
+.botao {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    height: 45px;
+    padding: 5px;
+    background-color: rgb(12, 51, 2);
+}
+#artigo {
+    width: 1400px; 
+    height: 750px;
+    margin: 10px;
+    padding: 0px;
+}
+#galeria {
+    width: 1400px; 
+    height: 750px;
+    margin: 10px;
+    padding: 0px;
+}
+.formulario {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 1.4em;;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
