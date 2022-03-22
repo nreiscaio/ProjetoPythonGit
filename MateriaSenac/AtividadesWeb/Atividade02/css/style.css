@@ -43,11 +43,11 @@ a:hover {
     color: #ffff;
     background-color: rgb(66, 144, 180);
 }
-#texto_inicial {
+#texto {
     font-family: 'Inter', sans-serif;
     font-size: 1em;;
     font-style: normal;
-    color: rgb(0, 0, 0);
+    color: rgb(115, 177, 100);
     width: 765px; padding: 5px; margin: 5px;
     float: left;
 }
