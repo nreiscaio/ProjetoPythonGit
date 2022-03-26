@@ -34,15 +34,82 @@ body {
 
 #text02 {
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+    text-align: right;
     color: #914416;
     width: 200px;
     margin: 0 auto;
-    float: initial;
+    margin-left: 100px;
+    float: left;
 }
 
-#recado {
-    float: inherit;
+
+#text03 {
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    float: right;
+    
+}
+
+#text04 {
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    float: left;
+    
+}
+
+#text05 {
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    float: right;
+    
+}
+
+#text06 {
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    float: left;
+    
+}
+
+#text07 {
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    float: right;
+    
+}
+
+#text08 {
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    float: left;
+    
+}
+
+#text09 {
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    float: right;
+    
+}
+
+#rodape {
+    width: 1200px;
+    height: 50px;
+    background-color: red;
 }
 
 
