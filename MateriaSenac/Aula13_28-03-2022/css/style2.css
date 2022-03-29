@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+    width: 500px;
+    /*Juntar as Linhas*/
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 7px;
+}
+
+th {
+    /*Tudo maiúsculo*/
+    text-transform: uppercase;
+    text-align: left;
+    background: #f5a003;
+    color: white;
+    font-size: 90%;
+}
+
+tr:hover {
+    background-color: #f5e2be;
+}
+
+.moeda {
+    text-align: right;
+}
