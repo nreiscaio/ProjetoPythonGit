@@ -1,0 +1,28 @@
+#caixa1 {
+    font-size: 14px;
+    width: 300px;
+    height: 200px;
+    background: #f38d07;
+    margin: 10px;
+}
+
+#caixa2 {
+    font-size: 14px;
+    width: 300px;
+    height: 200px;
+    background: #f38d07;
+    margin: 10px;
+    padding: 20px;
+
+    /*Incluindo os valores de padding ao tamanho div*/
+    box-sizing: border-box;
+}
+
+#caixa3 {
+    font-size: 14px;
+    width: 300px;
+    height: 200px;
+    background: #f38d07;
+    margin: 10px;
+    padding: 20px;
+}
