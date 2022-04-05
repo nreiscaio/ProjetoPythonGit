@@ -11,7 +11,7 @@
     linear-gradient(
         rgba(255, 255, 255, .5),
         rgb(105, 103, 103, .5)
-    ), url(../img/img1.png) no-repeat center;
+    ), url(../img/img1.png) center;
 }
 
 #banner {
